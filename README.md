@@ -381,7 +381,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Vercel
 
-![WebApp gameplay](https://pair-up-game.vercel.app/)
+**Live Demo:** https://pair-up-game.vercel.app/
+
+
 
 ---
 
